@@ -2,6 +2,7 @@
     max-width: 600px;
     margin: 0 auto;
     padding: 20px;
+    box-sizing: border-box;
 }
 
 .question{
@@ -14,8 +15,8 @@
 .answer{
     display: none;
     padding: 10px;
-    background-color: aquamarine;
-    border: 1px solid red;
+    background-color: rgb(202, 236, 225);
+    border: 1px solid black;
     border-radius: 5px;
 }
 

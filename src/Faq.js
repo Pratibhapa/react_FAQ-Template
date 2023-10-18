@@ -1,6 +1,7 @@
 import React from "react";
+import  './Faq.css';
 
-const Faq = () => {
+const Faq =() => {
 
     const faqData = [
         {
