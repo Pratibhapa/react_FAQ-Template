@@ -1,0 +1,25 @@
+.faq{
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.question{
+    background: none;
+    border: none;
+    text-align: left;
+    cursor: pointer;
+}
+
+.answer{
+    display: none;
+    padding: 10px;
+    background-color: aquamarine;
+    border: 1px solid red;
+    border-radius: 5px;
+}
+
+li:hover .answer {
+    display: block;
+}
+
